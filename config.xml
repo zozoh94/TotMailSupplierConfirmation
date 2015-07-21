@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>totmailsupplierconfirmation</name>
+	<displayName><![CDATA[Confirmation reception email suppliers]]></displayName>
+	<version><![CDATA[1.0]]></version>
+	<description><![CDATA[Allows the manager to see which suppliers read the email about an order.]]></description>
+	<author><![CDATA[Enzo Hamelin]]></author>
+	<tab><![CDATA[front_office_features]]></tab>
+	<confirmUninstall><![CDATA[Are you sure you want to uninstall Confirmation reception email suppliers ?]]></confirmUninstall>
+	<is_configurable>1</is_configurable>
+	<need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>
